@@ -8,4 +8,5 @@ run and follow the promt.
 
 super simple
 
-Here's a change made on linux
+Here's a change made on linux.
+Here's a second one.
